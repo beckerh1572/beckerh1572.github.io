@@ -1,0 +1,38 @@
+<h2>Photography Pricing</h2>
+
+<table border="1" cellpadding="10" cellspacing="0">
+    <tr>
+        <th>Category</th>
+        <th>Session Length</th>
+        <th>What’s Included</th>
+        <th>Price</th>
+    </tr>
+
+    <tr>
+        <td>Wedding Photography</td>
+        <td>6–8 Hours</td>
+        <td>Edited digital photos, online gallery</td>
+        <td>$1,500</td>
+    </tr>
+
+    <tr>
+        <td>Senior Photos</td>
+        <td>1–2 Hours</td>
+        <td>2 outfits, 20 edited photos</td>
+        <td>$250</td>
+    </tr>
+
+    <tr>
+        <td>Engagement Session</td>
+        <td>1 Hour</td>
+        <td>15 edited photos, location of choice</td>
+        <td>$200</td>
+    </tr>
+
+    <tr>
+        <td>Event Photography</td>
+        <td>2–4 Hours</td>
+        <td>Edited digital photos, event coverage</td>
+        <td>$400</td>
+    </tr>
+</table>
